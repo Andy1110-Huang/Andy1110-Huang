@@ -1,4 +1,4 @@
-### Hi My name is Andy 👋
+### Hi My name is Andy
 
 <!--
 **Andy1110-Huang/Andy1110-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
